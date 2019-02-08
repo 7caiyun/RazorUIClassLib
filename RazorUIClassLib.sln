@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RazorUIClassLib", "RazorUIClassLib.csproj", "{80981137-2A3B-4767-8778-4262FC006B19}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApp1", "..\WebApp1\WebApp1.csproj", "{FA9F8CDF-4AC3-40A7-9043-E8FDBDACC431}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80981137-2A3B-4767-8778-4262FC006B19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80981137-2A3B-4767-8778-4262FC006B19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80981137-2A3B-4767-8778-4262FC006B19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80981137-2A3B-4767-8778-4262FC006B19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA9F8CDF-4AC3-40A7-9043-E8FDBDACC431}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA9F8CDF-4AC3-40A7-9043-E8FDBDACC431}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA9F8CDF-4AC3-40A7-9043-E8FDBDACC431}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA9F8CDF-4AC3-40A7-9043-E8FDBDACC431}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {344F11CE-68F2-4E59-ACB3-8EE0B3DD8990}
+	EndGlobalSection
+EndGlobal
